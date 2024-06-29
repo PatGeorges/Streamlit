@@ -1,7 +1,7 @@
-streamlit 
-pandas 
-plotly.express 
-plotly.graph_objects
+#streamlit 
+#pandas 
+#plotly.express 
+#plotly.graph_objects
 
 # Load dataset
 file_path = 'Summer_olympic_Medals.csv'
