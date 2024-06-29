@@ -1,9 +1,7 @@
-pip install plotly
-pip install pandas
-import streamlit as st
-import pandas as pd
-import plotly.express as px
-import plotly.graph_objects as go
+streamlit 
+pandas 
+plotly.express 
+plotly.graph_objects
 
 # Load dataset
 file_path = 'Summer_olympic_Medals.csv'
