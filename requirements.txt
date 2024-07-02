@@ -3,4 +3,4 @@ streamlit_option_menu
 pandas
 plotly
 folium
-bokeh
+bokehjs
