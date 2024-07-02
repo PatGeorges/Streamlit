@@ -13,4 +13,4 @@ App for refugees available (ex using plotly) at: https://app-dg3dnodddutuarby6rg
 
 App for Vancouver EV stations (example using folium) at: https://app-qef3ksovgu8clkgk5pmayh.streamlit.app/
 
-App for html file does not work yet at first attempt
+App for html file - will need to resize the graph.  First attempt at: https://apphtmlpy-jghx8zzkdb5bkdakyw4t3b.streamlit.app/
