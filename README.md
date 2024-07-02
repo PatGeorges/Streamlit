@@ -12,3 +12,5 @@ App for olympic games medal available (ex using plotly) at: https://appolympicga
 App for refugees available (ex using plotly) at: https://app-dg3dnodddutuarby6rgmpo.streamlit.app/
 
 App for Vancouver EV stations (example using folium) at: https://app-qef3ksovgu8clkgk5pmayh.streamlit.app/
+
+App for html file does not work yet at first attempt
