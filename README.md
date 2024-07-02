@@ -2,7 +2,7 @@ Here is the GitHub setup for a few streamlit applications that I have deployed o
 
 One needs to include in the GitHub repository: 
 1. the streamlit script: app_XXX.py
-2. the data (csv, json) files
+2. the data (csv, json, html) files
 3. the requirements.txt
 
 With this, the deployment on streamlit (https://streamlit.io/) is simple once your streamlit account is linked to your github streamlit repository.
