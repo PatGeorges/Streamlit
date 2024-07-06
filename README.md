@@ -14,3 +14,5 @@ App for refugees available (ex using Plotly) at: https://app-dg3dnodddutuarby6rg
 App for Vancouver EV stations (ex using Folium) at: https://app-qef3ksovgu8clkgk5pmayh.streamlit.app/
 
 App for San Francisco criminality (ex using Folium) at: https://app-tnnvj79hdncp5zcbtaqhbu.streamlit.app/
+
+App for students in a network with their linkedIn profiles (ex using Bokeh) at:https://app-3nrce6az5d8apzyecztruo.streamlit.app/ 
