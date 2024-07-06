@@ -7,10 +7,10 @@ One needs to include in the GitHub repository:
 
 With this, the deployment on streamlit (https://streamlit.io/) is simple once your streamlit account is linked to your github streamlit repository.
 
-App for olympic games medal available (ex using plotly) at: https://appolympicgamespy-3nnzebantpcsjhasxfdrpw.streamlit.app/
+App for olympic games medal available (ex using Plotly) at: https://appolympicgamespy-3nnzebantpcsjhasxfdrpw.streamlit.app/
 
-App for refugees available (ex using plotly) at: https://app-dg3dnodddutuarby6rgmpo.streamlit.app/
+App for refugees available (ex using Plotly) at: https://app-dg3dnodddutuarby6rgmpo.streamlit.app/
 
-App for Vancouver EV stations (example using folium) at: https://app-qef3ksovgu8clkgk5pmayh.streamlit.app/
+App for Vancouver EV stations (ex using Folium) at: https://app-qef3ksovgu8clkgk5pmayh.streamlit.app/
 
-App for html file (will need to resize the graph) at:https://app-3nrce6az5d8apzyecztruo.streamlit.app/
+App for San Francisco criminality (ex using Folium) at: https://app-tnnvj79hdncp5zcbtaqhbu.streamlit.app/
