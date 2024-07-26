@@ -16,3 +16,5 @@ App for Vancouver EV stations (ex using Folium) at: https://app-mduvzsfaeac4ufgk
 App for San Francisco criminality (ex using Folium) at: https://app-tnnvj79hdncp5zcbtaqhbu.streamlit.app/
 
 App for students in a network with their linkedIn profiles (ex using Bokeh) at:https://app-3nrce6az5d8apzyecztruo.streamlit.app/ 
+
+App for course publicity through bubble title (html file in streamlit) at:https://app-r9desmeblg6648pm2ybavr.streamlit.app/ 
